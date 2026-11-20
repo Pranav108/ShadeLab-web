@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pranav108.github.io/ShadeLab/sitemap.xml
