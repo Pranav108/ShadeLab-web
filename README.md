@@ -2,9 +2,9 @@
 
 Official ShadeLab game website, support and privacy policy.
 
-- Website:https://pranav108.github.io/ShadeLab/
-- Privacy:https://pranav108.github.io/ShadeLab/privacy/
-- Support:https://pranav108.github.io/ShadeLab/support/
+- Website:https://pranav108.github.io/ShadeLab-web/
+- Privacy:https://pranav108.github.io/ShadeLab-web/privacy/
+- Support:https://pranav108.github.io/ShadeLab-web/support/
 - Contact:pranvcoder@gmail.com
 
 ## Publishing

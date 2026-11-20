@@ -1,8 +1,8 @@
 from pathlib import Path
 from html import escape
 root=Path(__file__).resolve().parent
-origin='https://pranav108.github.io/ShadeLab'
-base_path='/ShadeLab/'
+origin='https://pranav108.github.io/ShadeLab-web'
+base_path='/ShadeLab-web/'
 email='pranvcoder@gmail.com'
 def page(title,desc,path,content,active='',kind=''):
  nav=''.join(f'<a {"class=game-link" if label=="The game" else ""} href="{href}" {"aria-current=page" if active==label else ""}>{label}</a>' for label,href in [('The game','/#play'),('Support','/support/'),('Privacy','/privacy/')])
